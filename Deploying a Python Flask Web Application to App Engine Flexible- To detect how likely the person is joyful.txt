@@ -1,0 +1,7 @@
+curl -LO 
+
+raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Deploying%20a%20Python%20Flask%20Web%20Application%20to%20App%20Engine%20Flexible/quicklabgsp023.sh
+
+sudo chmod +x quicklabgsp023.sh
+
+./quicklabgsp023.sh
